@@ -60,9 +60,8 @@ def insert():
 
 
 
-for i in range(1, 100000000000):
-    insert();
 
+insert()
 
 # # id="su"是百度搜索按钮，click()是模拟点击
 # for index in range(0,40):
