@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="796d22bb-eb34-40ac-9282-4d50f4155f12" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ghostdriver.log" afterPath="$PROJECT_DIR$/ghostdriver.log" />
       <change beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +16,11 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+            <state relative-caret-position="419">
+              <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding>
-                <marker date="1522832662853" expanded="true" signature="1655:1693" ph="select count... nihaowu" />
+                <element signature="e#64#94#0" expanded="true" />
+                <marker date="1522833078487" expanded="true" signature="1691:1729" ph="select count... nihaowu" />
               </folding>
             </state>
           </provider>
@@ -182,7 +182,8 @@
         <state relative-caret-position="675">
           <caret line="56" column="20" lean-forward="false" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
           <folding>
-            <marker date="1522832662853" expanded="true" signature="1655:1693" ph="select count... nihaowu" />
+            <element signature="e#64#94#0" expanded="true" />
+            <marker date="1522833078487" expanded="true" signature="1691:1729" ph="select count... nihaowu" />
           </folding>
         </state>
       </provider>
@@ -192,7 +193,8 @@
         <state relative-caret-position="315">
           <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
           <folding>
-            <marker date="1522832662853" expanded="true" signature="1655:1693" ph="select count... nihaowu" />
+            <element signature="e#64#94#0" expanded="true" />
+            <marker date="1522833078487" expanded="true" signature="1691:1729" ph="select count... nihaowu" />
           </folding>
         </state>
       </provider>
@@ -202,7 +204,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1522832662853" expanded="true" signature="1655:1693" ph="select count... nihaowu" />
+            <element signature="e#64#94#0" expanded="true" />
+            <marker date="1522833078487" expanded="true" signature="1691:1729" ph="select count... nihaowu" />
           </folding>
         </state>
       </provider>
@@ -228,10 +231,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        <state relative-caret-position="419">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
           <folding>
-            <marker date="1522832662853" expanded="true" signature="1655:1693" ph="select count... nihaowu" />
+            <element signature="e#64#94#0" expanded="true" />
+            <marker date="1522833078487" expanded="true" signature="1691:1729" ph="select count... nihaowu" />
           </folding>
         </state>
       </provider>

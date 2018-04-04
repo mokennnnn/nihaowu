@@ -25,7 +25,10 @@ con = pymysql.connect(host="sdm399798644.my3w.com", port=3306, user="sdm39979864
 
 cursor = con.cursor()
 
-driver = webdriver.PhantomJS(desired_capabilities=dcap)
+try:
+    driver = webdriver.PhantomJS(desired_capabilities=dcap)
+except:
+    print('error')
 driver.set_window_size(1366, 768)
 driver.set_page_load_timeout(3)
 driver.set_script_timeout(1)
