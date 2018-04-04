@@ -51,11 +51,12 @@ def insert():
         print(sql)
         cursor.execute(sql);
         result = cursor.fetchone();
-        print('运行结果 %s'%(result));
+        sql = "select count(`content`) from `nihaowu`";
+        cursor.execute(sql);
+        result = cursor.fetchone();
+        print(result);
     except:
         print('获取失败');
-        sql = "insert `nihaowu` (`url`,`content`) values ('%s','%s')" % ('error', '');
-        cursor.execute(sql);
 
 
 
